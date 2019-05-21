@@ -215,7 +215,7 @@ if __name__=="__main__":
     d.load_graph_data()
     G=d.get_graph()
     
-    G=__createGraph(G,__subSampling(G,500,5000))
+    G=__createGraph(G,__subSampling(G,500,3000))
     #G=nx.karate_club_graph()
     
     
