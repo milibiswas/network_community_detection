@@ -2,11 +2,11 @@
 Network community detection using Girvan Newman
 
 # Dataset : BlogCatalog
-# Subsmapled data used
+### Sub-sampled data used
 
 Instruction to run:
 
-python project6.py
+*python project6.py*
 
 
 
